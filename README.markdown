@@ -39,4 +39,4 @@ The test runner used is [Jasmine](http://jasmine.github.io/) with a customized r
 
 ### [MIT Licensed](LICENSE)
 
-Edit to test Commit on VS Code WSL
+Edit to test Commit on VS Code WSL -Derek Tran **Needs a Commit Message or it wont work**
